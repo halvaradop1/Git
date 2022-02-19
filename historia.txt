@@ -2,3 +2,5 @@ Este es le primer archivo que vamos a manejar
 dentro del curso de git y git hub, liderado
 por Freddy Vega, en esta ocasion nos hemos
 equivocado.
+
+Hoy hablaremos de su vida y su obra maestra
