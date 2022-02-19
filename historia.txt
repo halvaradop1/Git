@@ -1,6 +1,5 @@
 Este es le primer archivo que vamos a manejar
 dentro del curso de git y git hub, liderado
-por Freddy Vega, en esta ocasion nos hemos
-equivocado.
+por Freddy Vega.
 
-Hoy hablaremos de su vida y su obra maestra
+Mañana nos enfocaremos en su vida laboral
